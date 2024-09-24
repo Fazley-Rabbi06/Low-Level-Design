@@ -1,0 +1,8 @@
+Definition:
+This pattern allows the behaviour of an object to change dynamically based on which strategy is applied,
+without altering the code of the object itself.
+
+Step 1: Create a Strategy Interface
+Step 2: Implement Different Payment Strategies
+Step 3: Context Class Using the Strategy
+
